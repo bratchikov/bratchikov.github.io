@@ -1,14 +1,15 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+title:             bratchikov.github.io
+email:             bratchikov@flexberry.net
+description:       A yet another blog
+author:            bratchikov
+baseurl:           "/"
+url:               "https://bratchikov.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  Bratchikov_igor
+github_username:   bratchikov
+facebook_username: bratchikov.igor
+# linkedin_username: 
 
 # Build settings
 markdown:          kramdown
